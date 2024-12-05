@@ -10,7 +10,7 @@
 *2. __ALGORITHM QUESTION__ Based on Arya and Mario who play a game by taking numbers from either end of a sequence to maximize their scores. Arya goes first. With both playing optimally, can Arya guarantee a win or tie?*
 
 
-## __MOVIE RECOMMENDATION SYSTEM__
+## *__MOVIE RECOMMENDATION SYSTEM__*
 
 
   ![resized_image](https://github.com/user-attachments/assets/887eb4cc-e54f-4ca3-9405-894944fb69b1)
