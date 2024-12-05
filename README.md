@@ -13,6 +13,7 @@
 ## __MOVIE RECOMMENDATION SYSTEM__
 
 
-![image](https://github.com/user-attachments/assets/ffa3ac40-deee-4f83-9305-dea37c889851)
+![resized_image](https://github.com/user-attachments/assets/887eb4cc-e54f-4ca3-9405-894944fb69b1)
+
 
 
