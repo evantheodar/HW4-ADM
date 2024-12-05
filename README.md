@@ -12,5 +12,7 @@
 
 ## __MOVIE RECOMMENDATION SYSTEM__
 
-![Webp net-resizeimage](https://github.com/user-attachments/assets/873de443-e802-418b-90f9-1d9134cba3df)
+
+![image](https://github.com/user-attachments/assets/ffa3ac40-deee-4f83-9305-dea37c889851)
+
 
