@@ -12,4 +12,5 @@
 
 ## __MOVIE RECOMMENDATION SYSTEM__
 
-![image](https://github.com/user-attachments/assets/2f48bdae-5467-441f-9667-8479418e73fc)
+![68747470733a2f2f6d6f7669656c656e732e6f72672f696d616765732f736974652f6d61696e2d73637265656e2e706e67](https://github.com/user-attachments/assets/8d96d3ae-e206-423a-899f-0c26eba5f1c9)
+
