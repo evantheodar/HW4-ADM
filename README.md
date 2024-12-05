@@ -12,3 +12,4 @@
 
 ## __MOVIE RECOMMENDATION SYSTEM__
 
+![image](https://github.com/user-attachments/assets/2f48bdae-5467-441f-9667-8479418e73fc)
